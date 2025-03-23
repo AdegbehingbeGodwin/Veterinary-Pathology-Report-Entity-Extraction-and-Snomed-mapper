@@ -1,0 +1,1109 @@
+﻿Raw response for row 0:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Horses (Equine)
+2. **Symptoms**: 
+   - Depression
+   - Anorexia
+   - Weakness
+   - High fever (40-41°C)
+   - Severe respiratory difficulty
+   - Frothy discharge from the nose
+   - Jaundice (mild to moderate)
+3. **Necropsy Findings**:
+   - Cyanosis and petechiation of the buccal mucosa
+   - Stable froth in the trachea and bronchi
+   - Severe congestion and oedema of the lungs
+   - Multiple focal haemorrhages on the pleural and cut surfaces of the lungs
+   - Petechiation of the peritoneum and epicardial haemorrhage
+   - Petechiation of the gastric mucosa (in one horse)
+4. **Diagnoses**: 
+   - Peracute or acute interstitial pneumonia
+   - Intravascular coagulation in arterioles and alveolar capillaries
+5. **Etiological Agents**: 
+   - A paramyxovirus (later identified as a morbillivirus, specifically Hendra virus)
+
+
+Raw response for row 1:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Pigs (specifically, grower pigs and weaners)
+2. **Symptoms**: 
+   - Dyspnoea (difficulty breathing)
+   - Sudden death
+   - Nutritionally induced diarrhoea (scouring)
+3. **Necropsy Findings**:
+   - Dilation of the heart
+   - Excessive volumes of fluid in body cavities
+   - Swollen congested liver (chronic venous congestion)
+   - Pulmonary oedema
+   - Extensive pneumonia (in some pigs)
+4. **Diagnoses**:
+   - The cause of the syndrome is presently unresolved, but possible considerations include:
+     - Nutritionally induced disease
+     - Hydrogen sulphide poisoning
+     - Blue green algae toxicity
+     - Plant seed toxicity (including pyrrolizidine alkaloids)
+5. **Etiological Agents**:
+   - Nutritionally dense diet high in energy and protein ( potential contributor to the initial scouring)
+   - Canola meal (component of the diet)
+   - Full-fat soya meal
+   - Fish meal
+   - Vegetable oil
+   - Lincomycin (medication added to the feed)
+   - Neomycin (medication added to the feed)
+   - Potential toxins from the environment, such as:
+     - Hydrogen sulphide from the effluent pit
+     - Blue green algae from the drinking water
+     - Plant seeds containing pyrrolizidine alkaloids
+
+
+Raw response for row 2:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Broiler breeders (chickens)
+2. **Symptoms**: 
+   - Anorexia
+   - Lethargy
+   - Loss of weight
+   - Diarrhoea
+3. **Necropsy Findings**: 
+   - Multiple small caseous granulomas in lung tissue
+   - Acid-fast bacilli present in moderate numbers
+   - No gross or histological lesions of tuberculosis in further samples
+4. **Diagnoses**: 
+   - Avian pulmonary tuberculosis
+5. **Etiological Agents**: 
+   - Mycobacterium avium serotypes 1 or 2 (typical cause of tuberculosis in poultry, but not confirmed in this case)
+   - Unidentified acid-fast bacilli (possible opportunistic pathogen of environmental origin)
+
+
+Raw response for row 3:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Eels (Anguilla reinhardti)
+2. **Symptoms**: 
+   - Heavy losses
+   - Severe tail erosion
+   - Extensive skin ulceration
+   - Death (approximately 200kg of eels died)
+3. **Necropsy Findings**: 
+   - Severe tail erosion with extensive skin ulceration
+   - Thin translucent membrane on affected skin areas (composed of a mat of fungal hyphae)
+   - No effects on internal organs and gills
+4. **Diagnoses**: Tail rot
+5. **Etiological Agents**: 
+   - Fungal agent: Saprolegnia sp
+   - Bacterial agent: Aeromonas hydrophila
+
+
+Note: The report mentions "Seprolegnia sp" as the fungal agent, but it is likely a typo and should be "Saprolegnia sp", which is a known fungal agent that causes disease in fish and other aquatic animals.
+
+
+Raw response for row 4:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Horses
+2. **Symptoms**: Not explicitly mentioned, but it can be inferred that the horses died or were killed humanely, suggesting severe illness or toxicity.
+3. **Necropsy Findings**: Typical pyrrolizidine alkaloidosis lesions were seen in the horses, but the specific findings are not detailed. A test for pyrrolic metabolites on the liver of one horse was negative despite typical lesions.
+4. **Diagnoses**: Pyrrolizidine alkaloidosis
+5. **Etiological Agents**: Crotalaria dissitiflora (grey rattlepod), specifically the pyrrolizidine alkaloids it contains.
+
+
+Raw response for row 5:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Brahman steers (cattle)
+2. **Symptoms**: 
+   - Found dead
+   - Sick
+   - Died within a few hours
+3. **Necropsy Findings**: 
+   - Dark brown discolouration of the blood
+4. **Diagnoses**: Nitrate-nitrite poisoning
+5. **Etiological Agents**: 
+   - Nitrate (NO3)
+   - Nitrite (NO2)
+   - Button grass (Dactyloctenium radulans) containing high levels of potassium nitrate (KNO3)
+
+
+Raw response for row 6:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Santa Gertrudis-cross weaners (cattle)
+2. **Symptoms**: Severe dysentery, death (in 5 animals)
+3. **Necropsy Findings**: 
+   - Haemorrhage and congestion in the large intestine
+   - Cyanosis
+   - Ecchymoses over an enlarged heart
+   - Oleander leaves in the rumen
+   - Multiple scattered foci of degeneration and necrosis in cardiac muscle
+4. **Diagnoses**: Poisoning by oleander (Nerium oleander)
+5. **Etiological Agents**: Oleander (Nerium oleander)
+
+
+Raw response for row 7:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Thoroughbred foal (equine)
+2. **Symptoms**: 
+   - Loss of condition
+   - Depression
+   - Recumbency
+   - Exaggerated heart sounds
+3. **Necropsy Findings**: 
+   - Hydropericardium
+   - Multifocal areas of myocardial degeneration in the right ventricular myocardium and atria
+   - Fibrin and platelet thrombus formation with evidence of early organisation associated with the atrial endocardium
+4. **Diagnoses**: 
+   - Cardiomyopathy
+   - Atrial thrombosis
+5. **Etiological Agents**: 
+   - Congenital cardiomyopathy
+   - Acquired condition
+   - Selenium/Vitamin E responsive syndrome (possible association)
+
+
+Raw response for row 8:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Bovine (specifically, a feedlot steer)
+2. **Symptoms**: Laboured breathing
+3. **Necropsy Findings**: 
+   - Extensive grey consolidation with pale bronchogenic patterns in the lung
+   - Necrotising bronchiolitis and interstitial pneumonia
+   - Hyperplasia of Type II pneumocytes
+   - Abundant accumulation of neutrophils within airways and alveoli
+   - Intranuclear eosinophilic inclusion bodies in airway and alveolar epithelium
+4. **Diagnoses**: Infectious Bovine Rhinotracheitis (IBR) infection
+5. **Etiological Agents**: Bovine herpesvirus (specifically, the virus that causes IBR)
+
+
+Raw response for row 9:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Cat
+2. **Symptoms**: Chronic suppurative cutaneous lesions in the lumbosacral area, persisted for more than a year, sinus tract formation, ulceration of the overlying epidermis
+3. **Necropsy Findings**: Severe deep dermal inflammatory reaction, multifocal and coalescing granulomatous response, focal aggregations of foamy macrophages, sinus tract formation with ulceration of the overlying epidermis
+4. **Diagnoses**: Cutaneous mycobacteriosis (provisional), Mycetoma
+5. **Etiological Agents**: Microsporum canis (fungus), non-pigmented yeast and hyphal forms of a fungus (likely a different species, but not explicitly identified as a separate agent)
+
+
+Raw response for row 10:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: German Shepherds, dogs (including cross-bred dogs with German Shepherd parentage)
+2. **Symptoms**: 
+   - Multiple firm, well-circumscribed dermal and subcutaneous nodules
+   - Irregular thickening and hyperpigmentation of the overlying skin
+   - Alopecia (hair loss) and ulceration of larger lesions
+3. **Necropsy Findings**: 
+   - Dermal and subcutaneous nodules on the limbs, head, and ears
+   - Renal cystadenocarcinoma (in some cases)
+   - Non-neoplastic renal cystic disease (in some cases)
+4. **Diagnoses**: 
+   - Nodular dermatofibrosis
+   - Renal cystadenocarcinoma (in some cases)
+   - Non-neoplastic renal cystic disease (in some cases)
+5. **Etiological Agents**: 
+   - Genetic (dominant mode of inheritance)
+   - Unknown (relationship between skin lesions and development of renal neoplasms)
+
+
+Raw response for row 11:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Ostrich
+2. **Symptoms**: Catarrhal rhinitis, sinusitis
+3. **Necropsy Findings**: None mentioned
+4. **Diagnoses**: Chlamydial infection
+5. **Etiological Agents**: Chlamydia, Aspergillus sp (ruled out by serology)
+
+
+Raw response for row 12:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Bantam chickens
+2. **Symptoms**: Dyspnoea (difficulty breathing)
+3. **Necropsy Findings**: 
+   - Severe diphtheritic tracheitis
+   - Formation of a necrotic exudative cast in the trachea
+   - Haemorrhagic, ulcerated tracheal mucosa
+   - Mixed leucocytic infiltration in the trachea
+   - Numerous bacterial colonies in the cast
+   - Similar changes in larger airways in the lung
+   - Perivascular mononuclear cuffing in the brain and heart
+4. **Diagnoses**: Infectious Laryngotracheitis (ILT)
+5. **Etiological Agents**: 
+   - ILT virus (a type of herpes virus)
+   - Bacteria (present in the tracheal cast, but not specified as a primary cause)
+   - Possible: Fowl plague virus, Avian influenza virus (being investigated)
+
+
+Raw response for row 13:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Horses
+2. **Symptoms**: 
+   - Chronic progressive weight loss
+   - Diarrhoea
+   - Anorexia
+   - Periodic elevation in body temperature
+   - Low grade anaemia
+   - Leucocytosis with relative neutrophilia
+   - Mild eosinophilia
+   - Hypoproteinaemia
+   - Hypoalbuminaemia
+   - Severe hyponatraemia
+   - Hypochloridaemia
+3. **Necropsy Findings**: None explicitly mentioned, but findings from haemograms, faecal floatations, and faecal cultures are discussed.
+4. **Diagnoses**: 
+   - Chronic progressive weight loss syndrome in horses
+   - Small strongyle (cyathostome) larval infection
+5. **Etiological Agents**: 
+   - Small strongyles (cyathostomes), specifically the larval stages of these parasites.
+
+
+Raw response for row 14:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Dog (specifically, a Rhodesian Ridgeback)
+2. **Symptoms**:
+        * Weight loss
+        * Vomition of bile
+        * Occasional melena
+3. **Necropsy Findings**:
+        * Multiple firm white nodules in the wall of the stomach
+        * Nodules scattered along mesentery and intestinal serosa
+        * Marked proliferation of dense connective tissue in the gastric submucosa
+        * Granulomas composed of eosinophils, macrophages, and lymphocytes in the stomach wall
+        * "Sulfur granules" containing Gram-positive cocci in the center of the granulomas
+        * Hypertrophied muscle layers
+4. **Diagnoses**: Botryomycosis (a condition characterized by a chronic, low-grade infection with Staphylococcus aureus)
+5. **Etiological Agents**: Staphylococcus aureus (a Gram-positive coccus)
+
+
+Raw response for row 15:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Border Leicester rams
+2. **Symptoms**: Balanitis, balanoposthitis
+3. **Necropsy Findings**: Severe, subacute, segmental, necrotising and ulcerative balanoposthitis, fibrinohaemorrhagic exudation
+4. **Diagnoses**: Balanitis, balanoposthitis
+5. **Etiological Agents**: None identified (bacterial and viral cultures were unrewarding, and serums gave negative reactions in viral neutralisation tests for herpes viruses)
+
+
+Raw response for row 16:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: 
+   - Ewes (Crossbred)
+   - Sheep (weaner)
+
+
+2. **Symptoms**: 
+   - Late term abortion
+   - Bacteraemia
+
+
+3. **Necropsy Findings**: 
+   - Multifocal leukoencephalomalacia
+   - Mild multifocal non-suppurative encephalitis
+   - Non-suppurative placentitis
+   - Acute multifocal necrotic hepatitis
+   - Sub-acute multifocal suppurative embolic pneumonia
+   - Acute segmental fibrinous pleuritis
+
+
+4. **Diagnoses**: 
+   - Toxoplasmosis
+   - Bacteraemia
+
+
+5. **Etiological Agents**: 
+   - Toxoplasma gondii
+   - Pasteurella haemolytica Type T
+
+
+Raw response for row 17:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Angus cattle
+2. **Symptoms**: 
+   - Depression
+   - Pyrexia (fever)
+   - Dyspnoea (difficulty breathing)
+   - Bilateral nasal discharge
+   - Opacity of the sclerocorneal junction
+3. **Necropsy Findings**: 
+   - Non-suppurative and fibrinoid vasculitis in portal triads, brain, leptomeninges, oral mucosa, oesophagus, and lymph nodes
+   - Moderate, acute, multifocal necrotising lymphadenitis (in one of the cases)
+4. **Diagnoses**: Malignant catarrhal fever
+5. **Etiological Agents**: Not explicitly mentioned in the report, but based on the diagnosis of Malignant catarrhal fever, the etiological agent is likely a virus, specifically an ovine herpesvirus (e.g., OvHV-2) or a caprine herpesvirus (e.g., CpHV-1), which are known to cause this disease.
+
+
+Raw response for row 18:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**:
+        * Wombat
+        * Eastern Grey kangaroo
+2. **Symptoms**:
+        * None explicitly mentioned, but the report implies that the animals were diseased, possibly with gastrointestinal symptoms (due to coccidiosis)
+3. **Necropsy Findings**:
+        * Numerous very large oocysts, schizonts, and macrogametocytes within the lacteals of the ileum (in the wombat)
+        * Disseminated T. gondii infection (in the kangaroo)
+        * Moderate to severe, chronic, multifocal, non-suppurative myositis and interstitial myocarditis (in the kangaroo)
+        * Lesser non-suppurative inflammation in the intestinal tunica muscularis, portal triads, lungs, kidneys, and thyroid gland (in the kangaroo)
+4. **Diagnoses**:
+        * Coccidiosis
+        * Disseminated T. gondii infection (in the kangaroo)
+5. **Etiological Agents**:
+        * Eimeria (Globidium) tasmania (likely cause of coccidiosis in the wombat)
+        * Eimeria kogoni (possible cause of coccidiosis in the kangaroo)
+        * Toxoplasma (T.) gondii (cause of disseminated infection in the kangaroo)
+
+
+Raw response for row 19:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: 
+   - Cat (specifically, Domestic Long Hair and Persian)
+
+
+2. **Symptoms**: 
+   - Severe chronic granulomatous peritonitis
+   - Mild hyperplastic dermatitis
+   - Severe chronic granulomatous lymphadenitis
+   - Chronic granulomatous nodular dermatitis
+
+
+3. **Necropsy Findings**: 
+   - Mycetoma in the hypodermis of one skin section
+   - Numerous fungal hyphae and spores in the superficial epidermis
+   - Mycetomas associated with prominent granulomatous peritonitis
+
+
+4. **Diagnoses**: 
+   - Dermatophytosis
+   - Chronic granulomatous peritonitis
+   - Hyperplastic dermatitis
+   - Granulomatous lymphadenitis
+   - Nodular dermatitis
+
+
+5. **Etiological Agents**: 
+   - Pseudallescheria boydii (suspected for peritoneal fungi)
+   - Microsporum canis (recovered from lesions)
+
+
+Raw response for row 20:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Angus-cross calf
+2. **Symptoms**: None explicitly mentioned, but the calf died 1½ hours after birth, suggesting severe congenital abnormalities.
+3. **Necropsy Findings**:
+        * Globose heart displaced ventrally outside the body through a defect in the sternum
+        * Atrial septal defect (3cm diameter foramen ovale)
+        * Dilation of the right ventricle with thickening of interventricular septum and right ventricular wall
+        * Thickened, red, and granular tricuspid valve cusps with thrombi
+        * Three circular interventricular septal defects (5-10mm in diameter)
+        * Transposed aorta to the right of and anterior to the conus arteriosus
+        * Left ventricular hypoplasia (50mm deep, 40mm wide) with narrow a/v opening (15mm in diameter)
+4. **Diagnoses**: 
+        * Congenital heart defects (multiple)
+        * Atrial septal defect
+        * Interventricular septal defects
+        * Transposition of the aorta
+        * Left ventricular hypoplasia
+5. **Etiological Agents**: None mentioned (congenital abnormalities are likely due to genetic or environmental factors during fetal development, but no specific etiological agent is identified)
+
+
+Raw response for row 21:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Koala
+2. **Symptoms**: Haemathorax, collapse of the right lung, left displacement of the thoracic organs
+3. **Necropsy Findings**: 
+   - Solid pale grey multinodular tumour (2cm x 3cm) in right dorsal diaphragm
+   - Infiltration of lumbar muscles
+   - Multinucleated giant cells in several areas of the tumour
+4. **Diagnoses**: Rhabdomyosarcoma
+5. **Etiological Agents**: None mentioned (the report suggests that the tumour is the cause of the symptoms, but does not mention any underlying etiological agent such as a virus, bacteria, or toxin)
+
+
+Raw response for row 22:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Kitten (Felis catus)
+2. **Symptoms**: 
+   - Found dead
+   - Apparently normal the night before
+   - No vomiting (stomach was still full)
+3. **Necropsy Findings**:
+   - Lungs: diffusely dark red
+   - Histological examination: marked congestion, thick proteinaceous fluid in many alveoli and larger airways, dilation of pulmonary lymphatic vessels, moderate increase in alveolar macrophages
+   - Dilation of lymphatic vessels around the mesenteric lymph node
+   - Normal sections of liver, intestine, kidney, spleen, and brain
+4. **Diagnoses**: 
+   - Type I hypersensitivity reaction (anaphylaxis) to a bee sting
+   - Exudative response possibly accompanied by bronchospasm
+5. **Etiological Agents**: 
+   - Bee sting (presumably from a bee hive on the neighbor's property)
+
+
+Raw response for row 23:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Dog (specifically, a Keeshond, a Spitz-type breed)
+2. **Symptoms**: 
+   - Symmetrical alopecia (hair loss)
+   - Hyperpigmentation (over the back and ventrum)
+3. **Necropsy Findings**: Not applicable (this is a skin biopsy report, not a necropsy report)
+4. **Diagnoses**: 
+   - Castration-responsive dermatosis
+   - Adult-onset growth hormone-responsive dermatosis
+5. **Etiological Agents**: 
+   - Hormonal imbalance (likely related to growth hormone or sex hormones, given the response to castration)
+
+
+Raw response for row 24:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Mice (specifically, C57BL/6 mice)
+2. **Symptoms**: 
+   - Continuous rapid fine motor tremor (possible intention tremor)
+   - Ataxia
+   - Tendency to fall to one side
+3. **Necropsy Findings**: 
+   - Cerebellum was about 2/3 normal diameter
+   - Thinning of the cerebellar molecular layer
+   - At least a 50% reduction in the number of Purkinje cells
+   - Occasional shrunken, markedly basophilic Purkinje cells
+4. **Diagnoses**: 
+   - Cerebellar abnormalities (possibly a previously undescribed mutation)
+5. **Etiological Agents**: 
+   - Genetic mutation (possibly a previously undescribed mutation, similar to known mutations such as lurcher, reeler, teetering, jolting, and vibrator)
+
+
+Raw response for row 25:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Chicken (layer flock)
+2. **Symptoms**: 
+   - Sudden increase in mortalities
+   - Decrease in production
+   - Fever (febrile)
+   - Quick and quiet death
+3. **Necropsy Findings**: 
+   - Multiple whitish foci of varying size (1 to 5mm in diameter) throughout the liver
+   - Petechial haemorrhages in some visceral organs
+4. **Diagnoses**: 
+   - Acute multifocal hepatic necrosis
+   - Granulomas
+   - Coagulative necrosis of hepatocytes
+5. **Etiological Agents**: 
+   - Unknown, but suspected to be avian spirochetosis due to infestation with Argas persicus (a tick species that can transmit the disease)
+   - Initially suspected bacterial aetiology, with consideration of Salmonella and Campylobacter, but culture results were negative.
+
+
+Raw response for row 26:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Piglet (specifically, a 13-week-old piglet)
+2. **Symptoms**: 
+   - Ill thrift
+   - Inco-ordination affecting all four limbs
+   - Lethargy
+   - Progressive weight loss
+3. **Necropsy Findings**: 
+   - Large numbers of Ascaris worms in the small intestine
+   - Extensive multifocal haemorrhages in the ventral horn of the grey matter of the spinal cord
+   - Macrophages and a few eosinophils surrounding the haemorrhages
+   - Necrotic large neurons
+   - Axonal swelling and Wallerian degeneration in the white matter
+   - Multifocal granulomas with eosinophils in the liver
+4. **Diagnoses**: 
+   - Possible "visceral larva migrans"
+   - Internal parasitism caused by Ascaris suis
+5. **Etiological Agents**: 
+   - Ascaris suis (the parasite causing internal parasitism)
+   - Ascaris worms (found in the small intestine)
+
+
+Raw response for row 27:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**:
+        * Ewes (sheep)
+        * Cows (cattle)
+        * Ostriches
+2. **Symptoms**:
+        * Metabolic diseases
+        * Pregnancy toxaemia
+        * Hypocalcaemia
+        * Enterotoxaemia
+        * Grain poisoning
+        * Acidosis
+        * Plant poisoning (various types)
+3. **Necropsy Findings**:
+        * None explicitly mentioned, but various cases of animal deaths and illnesses are reported
+4. **Diagnoses**:
+        * Pregnancy toxaemia
+        * Hypocalcaemia
+        * Enterotoxaemia
+        * Grain poisoning
+        * Acidosis
+        * Plant poisoning (various types, including):
+                + "Mother of Millions" (Bryophylum sp) poisoning
+                + Quinine Bush poisoning
+                + Rock fern poisoning
+                + Tree Tobacco (Nicotiana glauca) poisoning
+                + "Agave" poisoning
+5. **Etiological Agents**:
+        * Weather conditions (drought, clear skies, cold temperatures)
+        * Grain diets
+        * Plant toxins (various types, including):
+                + Bryophylum sp (Mother of Millions)
+                + Quinine Bush
+                + Rock fern
+                + Nicotiana glauca (Tree Tobacco)
+                + Gomphocarpus fruticosus (Narrow Leaf Cotton Bush)
+                + Agave sp.
+
+
+Raw response for row 28:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: 
+   - Cattle (specifically, Hereford cows)
+   - Sheep
+   - Goats
+   - Rabbits
+
+
+2. **Symptoms**: 
+   - Hind limb stiffness
+   - Abnormal gait
+   - Tucking of the hind legs under the body
+   - Listlessness
+   - Inappetance
+   - Icterus (jaundice)
+   - Yellow oculonasal discharge
+   - Photosensitisation
+   - Coma
+   - Death
+   - Bloat
+   - Cyanosis
+   - Dyspnoea
+   - Tachycardia
+   - Persistently painful skin wounds (in people, caused by leaf tips)
+
+
+3. **Necropsy Findings**: 
+   - Gastric hyperaemia
+   - Pale liver
+
+
+4. **Diagnoses**: 
+   - Suspected Agave americana poisoning
+   - Myopathy (mainly affecting the hind limbs)
+   - Hepatogenous photosensitisation (associated with A. lechequilla)
+
+
+5. **Etiological Agents**: 
+   - Agave americana (Century Plant)
+   - Agave lechequilla
+   - Agave sisalina (Sisal)
+   - Toxic saponin (contained in Agave species)
+   - Exogenous photodynamic agent (contained in A. lechequilla)
+   - Unidentified hepatotoxin (contained in A. lechequilla, causing photosensitivity)
+   - Steroidal saponin (similar to those in Panicum spp, responsible for hepatogenous photosensitisation)
+
+
+Raw response for row 29:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Cattle (specifically, a mixture of Jersey and Guernsey breeds)
+2. **Symptoms**: 
+   - Nervous syndrome
+   - Proprioceptive defects
+   - Forelimb hypermetria ("goose-stepping")
+   - Constant head nodding
+   - Absent withdrawal reflexes (front and back legs)
+   - Absent menace reflexes
+   - Present patella reflex
+   - Ataxia
+   - Dehydration
+3. **Necropsy Findings**: 
+   - Severe spongiform changes in the brain and spinal cord
+   - Oedematous CNS lesions
+   - Spongy changes in both the myelinated areas and in the cerebrocortical grey matter
+4. **Diagnoses**: 
+   - Nervous syndrome (specific diagnosis not mentioned, but investigations are ongoing)
+   - Ruled out: pestivirus infection, maple syrup urine disease
+5. **Etiological Agents**: 
+   - None specifically identified, but pestivirus antigen and antibody were ruled out through blood tests. The cause of the nervous syndrome is still under investigation.
+
+
+Raw response for row 30:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Turkey
+2. **Symptoms**: 
+   - Heavy losses
+   - Sickness
+   - Death (approximately 10 birds per day)
+   - Deaths start about 2 weeks after antimicrobials are withdrawn from the feed
+3. **Necropsy Findings**: 
+   - Necropsy and histological changes consistent with cholera
+   - Heavy pure culture of P. multocida isolated from various sites
+4. **Diagnoses**: Cholera
+5. **Etiological Agents**: 
+   - P. multocida (specific strain not represented in the vaccine)
+
+
+Raw response for row 31:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Sheep (including lambs, ewes, wethers, and hoggets)
+2. **Symptoms**: 
+   - Excess salivation
+   - Muscle fasciculation
+   - Abdominal pain
+   - Bloat
+   - Laboured breathing
+   - Diarrhoea
+3. **Necropsy Findings**: 
+   - Vascular congestion of the lungs with froth in the trachea
+   - Vascular congestion of the small intestine
+   - Acute myocardial and hepatic necrosis (in two lambs)
+   - Vascular congestion and oedema in the lungs (histopathological changes)
+   - Vascular congestion in the liver (histopathological changes)
+4. **Diagnoses**: 
+   - Organophosphate toxicity (based on low cholinesterase levels)
+   - Dehydration (based on elevated haematocrit and plasma protein)
+   - Muscle damage (based on elevated muscle enzymes, including CPK, LDH, and SGOT)
+5. **Etiological Agents**: 
+   - Pyraclofos (an organophosphate component of the "Colleague" drench)
+   - "Colleague" drench (the commercial product containing Pyraclofos)
+
+
+Raw response for row 32:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Lambs
+2. **Symptoms**: 
+   - Slobbering
+   - Nasal discharge
+   - Depression
+   - Stiff gait
+3. **Necropsy Findings**: 
+   - Rupture of the oesophagus at the back of the pharynx by the "Proftril" capsule
+   - Complete penetration of the capsule through the oesophageal wall into the neck tissue
+   - Severe cellulitis
+   - Food material in the surrounding tissue due to the rupture
+   - Fragile oesophageal walls
+4. **Diagnoses**: 
+   - Oesophageal rupture
+   - Cellulitis
+5. **Etiological Agents**: 
+   - "Proftril" slow release anthelmintic capsules (the cause of the oesophageal rupture)
+
+
+Raw response for row 33:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Goats (kids)
+2. **Symptoms**: 
+   - Stillbirth
+   - Partial alopecia (in one kid)
+   - Oedema of the head (in two kids)
+   - Dystocia (difficulties at birth)
+   - Asphyxiation (in one kid)
+3. **Necropsy Findings**:
+   - Marked oedema of the head (in two kids)
+   - Partial alopecia along the back and the back of the neck (in one kid)
+   - Thyroid glands could not be found at post-mortem examination (in one kid)
+   - Normal hair growth and grossly and histologically normal thyroids (in two kids)
+4. **Diagnoses**:
+   - Hypothyroidism (in one kid)
+   - Dystocia (difficulties at birth)
+   - Asphyxiation (in one kid)
+5. **Etiological Agents**: 
+   - None explicitly mentioned, but the report suggests that the deaths were attributed to difficulties at birth (dystocia) and possible thyroid insufficiency (hypothyroidism) in one kid.
+
+
+Raw response for row 34:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Murray Grey calves
+2. **Symptoms**: 
+   - Recumbent
+   - Severely jaundiced
+   - Enlarged liver palpable through the abdominal wall
+   - Anaemic (in the first calf)
+   - Previous anaemia (in the second calf, as indicated by many nucleated red blood cells in the smear)
+3. **Necropsy Findings**:
+   - Severe jaundice
+   - Enlarged brown liver
+   - Gall bladder virtually empty
+   - No evidence of photosensitization
+   - Adult Haemonchus visible in the abomasum (in the first calf)
+   - Very pale intestinal contents (in the second calf)
+4. **Diagnoses**:
+   - Sporidesmin toxicity
+   - Obstructive cholangiolitis
+   - Hepatocyte necrosis
+   - Neutrophilia
+5. **Etiological Agents**:
+   - Sporidesmin (a mycotoxin)
+   - Pithomyces chartarum (a saprophytic fungus)
+   - Haemonchus (a parasitic nematode, in the first calf)
+
+
+Raw response for row 35:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Sheep (Merino), lambs, goats, cattle, horses
+2. **Symptoms**: 
+   - Ulcers in the mouth
+   - Scabs on the muzzle
+   - Proliferative lesions on the gums
+   - Pneumonia
+   - Pleurisy
+   - Pericarditis
+   - Diarrhoea
+   - Foci of suppuration and necrosis in the liver
+   - Incoordination
+   - Gangrene of the extremities during cold weather
+3. **Necropsy Findings**: 
+   - Ulcers in the mouth
+   - Scabs on the muzzle
+   - Proliferative lesions on the gums
+   - Pneumonia
+   - Pleurisy
+   - Pericarditis
+   - Diarrhoea
+   - Foci of suppuration and necrosis in the liver
+4. **Diagnoses**: 
+   - Scabby-mouth (caused by Parapox virus)
+   - Secondary infection (particularly with Fusobacterium necrophorum)
+   - Necrotic stomatitis
+   - Systemic infection (affecting lungs, stomach, liver, kidneys, or spleen)
+   - Fescue poisoning (caused by ergot alkaloids in Drunken Horse Grass)
+5. **Etiological Agents**: 
+   - Parapox virus
+   - Fusobacterium necrophorum
+   - Drunken Horse Grass (Achnatherum inebrians) containing high levels of ergot alkaloids (endophyte infected)
+
+
+Raw response for row 36:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: 
+   - Western grey kangaroos
+   - Red kangaroos
+   - Euros (mentioned in the context of "lumpy jaw")
+
+
+2. **Symptoms**: 
+   - Blindness
+   - Stumbling into objects, especially when disturbed
+   - No external signs of eye disease
+   - Maintained body condition, could hear, move, and feed freely
+   - Ocular discharge (in some cases)
+   - Corneal opacities (in some cases)
+   - Emaciation (in drought-affected areas)
+
+
+3. **Necropsy Findings**: 
+   - Pale retinas
+   - Apparent detachment of retinas
+   - White foci 1-2mm across in the retinas
+   - Bilateral lens opacities in one animal
+   - Non-suppurative inflammation of the choroid
+   - Sloughing of the retina
+   - Mild to moderate mononuclear cell infiltrate in the retina
+   - Focal necrosis of the retina
+   - Attached mixed cell inflammatory exudate
+   - Mineralisation of the rod and cone basal segments of the retina
+   - Diffuse atrophy of the retina
+   - Wallerian degeneration of the optic nerves
+   - Mild non-suppurative multifocal inflammation of the optic nerves
+   - Mild to moderate multifocal non-suppurative encephalitis
+
+
+4. **Diagnoses**: 
+   - Non-suppurative choroiditis
+   - Retinal atrophy
+   - Optic nerve degeneration (Wallerian degeneration)
+   - Multifocal non-suppurative encephalitis
+   - Possible infectious cause (suggested by microscopic findings and epidemiology, but not confirmed by viral cultures)
+
+
+5. **Etiological Agents**: 
+   - Possible arboviral infection (suggested by epidemiology and mosquito activity, but not confirmed)
+   - Borrelia burgdorferi (considered as a possible cause based on similar cases in captive kangaroos, but not found in this outbreak)
+   - Stypandra (considered as a possible cause based on similar optic nerve lesions in livestock, but the associated choroidal and retinal changes seem unique to this outbreak)
+   - Nutritional deficiencies (considered as a possible cause in drought-affected areas)
+
+
+Raw response for row 37:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Horse (specifically, a stock horse)
+2. **Symptoms**: 
+   - Depression
+   - Inappetence
+   - Port wine urine (indicative of hemolysis)
+3. **Necropsy Findings**: 
+   - Extensive fibrosis of the liver
+   - Megalocytosis
+   - Regenerative nodules in the liver
+   - Elevated kidney and liver copper levels (4 and 3 times normal limits, respectively)
+4. **Diagnoses**: 
+   - Copper toxicity
+   - Intravascular haemolysis
+5. **Etiological Agents**: 
+   - Pyrrolizidine alkaloids
+   - Copper (from lick blocks)
+
+
+Raw response for row 38:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Bottlenosed dolphin
+2. **Symptoms**: None explicitly mentioned, but the animal was found washed up on a beach, suggesting possible stranding or death prior to washing up.
+3. **Necropsy Findings**:
+        * Large multilobular masses on the diaphragmatic surface of the liver
+        * Masses on the caudal lung
+        * Involvement of the mesenteric lymph nodes
+        * Severe peritonitis
+        * Numerous abdominal abscesses
+        * Extensive adhesions involving all organs in the lower abdomen
+        * Uterus distended with approximately 1.5 litres of fluid
+4. **Diagnoses**:
+        * Lymphosarcoma (well-differentiated)
+        * Peritonitis (cause unknown)
+5. **Etiological Agents**: None identified, although the cause of the peritonitis could not be determined. The lymphosarcoma is a diagnosis, but the underlying cause or etiological agent is not specified.
+
+
+Raw response for row 39:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Sheep
+2. **Symptoms**: Scouring (diarrhea)
+3. **Necropsy Findings**: 
+   - Presence of Trichostrongylus axei worms in the abomasum
+   - Total Worm Counts:
+     - Case 1: 4150 (including 1020 T.axei, 2340 L4, and 740 immatures) and 59760 (including 10,515 T.axei, 43110 L4's, and 6135 immatures)
+     - Case 2: 110 (including 660 T.axei, 400 L4's, and 50 immatures) and 12280 (including 10880 T.axei, 900 ostertagia, 200 L4's, and 300 immatures)
+4. **Diagnoses**: Trichostrongylus axei infection
+5. **Etiological Agents**: Trichostrongylus axei (a parasitic nematode worm)
+
+
+Raw response for row 40:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Sheep (specifically, lambs)
+2. **Symptoms**: Lameness, fractured femur, fragile bones, healing rib fractures, footrot lesions, myocardial necrosis
+3. **Necropsy Findings**: 
+   - Fractured femur in one lamb
+   - Very fragile bones in all lambs
+   - Healing rib fractures in two lambs
+   - Score 2 footrot lesions in all lambs
+   - Focal areas of myocardial necrosis in one lamb
+   - Low plasma glutathione peroxidase levels and liver selenium levels in all lambs
+   - Low liver copper levels and high liver iron levels in all lambs
+4. **Diagnoses**: 
+   - Osteoporosis (possible)
+   - Copper deficiency (possible, but unlikely)
+   - Selenium deficiency (possible)
+5. **Etiological Agents**: 
+   - Poor nutrition (possible)
+   - Low milk intake (possible)
+   - Heavy intestinal parasitism (possible)
+   - High iron intake (possible, potentially inducing low copper levels)
+   - Copper deficiency (possible, but unlikely)
+   - Selenium deficiency (possible)
+
+
+Raw response for row 41:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Rabbits
+2. **Symptoms**: 
+   - Stiffness
+   - Eyes rolling back in the head
+   - Sudden death
+3. **Necropsy Findings**: 
+   - Extremely fat
+   - Multiple pinpoint white foci distributed throughout the liver
+   - Focal areas of necrosis surrounded by polymorph infiltrates
+   - Bacterial colonies in the sinusoids
+4. **Diagnoses**: 
+   - Focal areas of necrosis in the liver
+   - Bacterial infection
+5. **Etiological Agents**: 
+   - Pasteurella multocida (bacteria)
+
+
+Raw response for row 42:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Layer hens
+2. **Symptoms**: 
+   - Recent drop in production by about 8%
+   - 20% increase in the prevalence of thin shells
+   - Wing joints appear necrotic
+3. **Necropsy Findings**: 
+   - Extensive purplish and green discolouration of tissues around the scapulo-humeral and femoro-tibial joints
+   - Periarticular haemorrhage and subsequent degradation of extravasated blood
+   - Avulsion of the proximal tuberosities of the humeri and lateral condyles of the femurs
+   - Separation of the entire distal end of the femur from the shaft (in one case)
+4. **Diagnoses**: 
+   - Vitamin/mineral deficiency or imbalance (suspected)
+   - Skeletal fractures (multiple)
+5. **Etiological Agents**: 
+   - Vitamin/mineral deficiency or imbalance (suspected, no specific agent identified)
+
+
+Raw response for row 43:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Cow (cattle)
+2. **Symptoms**: Not explicitly mentioned, but the cow was tested and diagnosed with Johne's Disease (JD)
+3. **Necropsy Findings**: 
+   - Intestinal lesion typical of Johne's Disease
+   - Many acid-fast bacilli present in the intestinal lesion
+   - No gross or histological lesions suggestive of JD in the three slaughtered cows from the Tennant Creek district
+4. **Diagnoses**: 
+   - Johne's Disease (JD)
+   - Possible exposure to avian mycobacteria (speculative)
+5. **Etiological Agents**: 
+   - Mycobacterium avium subsp. paratuberculosis (causative agent of Johne's Disease)
+   - Avian mycobacteria (possible, based on speculation about serological test results)
+
+
+Raw response for row 44:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Dog
+2. **Symptoms**: 
+   - Found dead in the morning
+   - No prior symptoms mentioned, but the owner was worried because the dog was apparently healthy before death
+3. **Necropsy Findings**:
+   - Six red tumours in the skin (mm to cm size)
+   - Haemopericardium
+   - Red tumours in many organs and tissues
+   - Multiple tumours in the spleen (mm to 8cm diameter)
+   - Tumours in the mesentery, near the intestines, and in the intestinal wall
+   - Multiple small tumours in the lung
+   - One large tumour (8cm) in the wall of the left atrium
+   - Torn epicardium overlying the tumour in the left atrium
+   - Heartworms in the right pulmonary artery
+4. **Diagnoses**: 
+   - Haemopericardium (considered the immediate cause of death)
+   - Haemangiosarcomas (microscopic examination revealed)
+5. **Etiological Agents**:
+   - Haemangiosarcomas (primary cause of disease and death)
+   - Heartworms (presence noted, but not considered the primary cause of death)
+
+
+Raw response for row 45:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: Saltwater crocodile (Crocodylus porosus)
+2. **Symptoms**: 
+   - Not thriving
+   - Worms crawling out of the mouth
+   - Deep ulcerations in the stomach wall (up to 4cm in diameter)
+3. **Necropsy Findings**: 
+   - Presence of worms (Geoeltascaris australiensis) in the stomach
+   - Adult nematodes (about 20) in the stomach contents
+   - Plugs of material (composed of nematodes, cellular debris, and exudate) in the stomach ulcers and free in the stomach contents
+4. **Diagnoses**: 
+   - Infestation with Geoeltascaris australiensis
+   - Deep ulcerations in the stomach wall
+5. **Etiological Agents**: 
+   - Geoeltascaris australiensis (nematode parasite)
+
+
+Raw response for row 46:
+Here are the extracted entities from the pathology report:
+
+
+1. **Animal Species**: 
+   - Cattle (sentinel herd, export steers)
+   - Insects (Culicoides brevitarsis, C. brevitarsus, C. actoni, C. wadai, C. fulvus)
+
+
+2. **Symptoms**: 
+   - Clinical cases of Bovine Ephemeral Fever (BEF)
+   - Rejection for export due to BEF
+
+
+3. **Necropsy Findings**: 
+   - None explicitly mentioned in the report, as the focus is on virus isolation and serology.
+
+
+4. **Diagnoses**: 
+   - Bluetongue serotype 1
+   - Bluetongue serotype 21
+   - EHD 5
+   - EHD 1
+   - Bovine Ephemeral Fever (BEF)
+
+
+5. **Etiological Agents**: 
+   - Bluetongue virus (serotypes 1 and 21)
+   - EHD virus (serotypes 1 and 5)
+   - Bovine Ephemeral Fever virus
+   - Culicoides species (vectors for Bluetongue virus)
